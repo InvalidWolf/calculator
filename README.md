@@ -1,4 +1,4 @@
-# calculator
+# 🧾 Calculator
 
 For this calculators you need to install the PySimpleGUI Package and you need Python
 
